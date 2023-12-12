@@ -1,5 +1,6 @@
 # Stock-Market-Display
 You can monitor 4 shares over the display to disaply your favourite shares you can simply add those share names to the market_details.json and add the arduino serial port number and you are good to go.
+
 **Step 1** : Find your share symbol/name go to "https://www.nseindia.com/" and search the symbol/name.
 
 **Step 2** : Copy symbol/name and paste into the market_details.json and add arduino port.
